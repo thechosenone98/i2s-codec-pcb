@@ -467,7 +467,8 @@
       "project"
     ],
     "pinned_symbol_libs": [
-      "project"
+      "project",
+      "TheCompany"
     ]
   },
   "meta": {
